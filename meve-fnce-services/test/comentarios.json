@@ -1,0 +1,14 @@
+{	
+	"descripcion": "ejemplo de comentarios asociados a un objeto",
+	"historia":	[{
+		"timestamp": "2014-08-15 12:00",
+		"usuario": "p8admin",
+		"comentario": "creación de expediente"
+		},
+		{
+		"timestamp": "2014-08-15 12:20",
+		"usuario": "p8admin",
+		"comentario": "favor de enviar información detallada del expediente"
+		}		
+	]
+}
