@@ -6,7 +6,7 @@ public class TestCPH {
 
 	public static void main(String[] args) {
 		DocumentCreateChangePreprocessor cph = new DocumentCreateChangePreprocessor();
-		boolean retVal = cph.isTransactionValid(DocumentCreateChangePreprocessor.EXPIRY_DATE);
+		boolean retVal = cph.isTransactionValid();
 		System.out.println(retVal);
 	}
 
